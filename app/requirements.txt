@@ -1,8 +1,12 @@
 fastapi
 uvicorn
 sqlalchemy
+sqlmodel
 psycopg2
 pydantic
 python-dotenv
 pyjwt
 passlib ##hashing
+alembic
+asyncpg
+dotenv

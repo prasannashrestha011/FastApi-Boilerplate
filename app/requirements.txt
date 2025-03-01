@@ -10,3 +10,4 @@ passlib ##hashing
 alembic
 asyncpg
 dotenv
+python-multipart
